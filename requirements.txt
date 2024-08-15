@@ -43,7 +43,7 @@ PyRect==0.2.0
 PyScreeze==0.1.30
 python-dateutil==2.9.0.post0
 pytweening==1.2.0
-pywin32==306
+pywin32
 pyzmq==25.1.2
 six==1.16.0
 SQLAlchemy==2.0.31
